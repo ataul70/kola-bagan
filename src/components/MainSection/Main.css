@@ -1,0 +1,9 @@
+/* .main-container{
+    display:grid ;
+    grid-template-columns:3fr 1fr;
+} */
+
+.summition-section h3{
+    padding-top:5px;
+    color: rgb(85, 81, 76);
+}

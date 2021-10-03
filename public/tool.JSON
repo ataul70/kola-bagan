@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name":"Mizanur ",
+        "country":"Kolabagan",
+        "salary":1622,
+        "language":"football players",
+        "position":"football",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(6).png"
+    },
+    {
+        "id":2,
+        "name":"MD Hossen",
+        "country":"Kolabagan",
+        "salary":1045,
+        "language":"football players",
+        "position":"football",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(9).png"
+    },
+    {
+        "id":3,
+        "name":"James Gosling",
+        "country":"Kolabagan",
+        "salary":1141,
+        "language":"football players",
+        "position":"football",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(3).png"
+    },
+    {
+        "id":4,
+        "name":"Jajabor",
+        "country":"Kolabagan",
+        "salary":969,
+        "language":"football players",
+        "position":"football",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(6).png"
+    },
+    {
+        "id":5,
+        "name":"Anders Hejlsberg",
+        "country":"Kolabagan",
+        "salary":900,
+        "language":"football players",
+        "position":"football",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(5).png"
+    },
+    {
+        "id":6,
+        "name":"Tim Berners-Lee",
+        "country":"Kolabagan",
+        "salary":850,
+        "language":"football players",
+        "position":"football",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(6).png"
+    },
+    {
+        "id":7,
+        "name":"Brian Kernighan",
+        "country":"Kolabagan",
+        "salary":700,
+        "language":"football players",
+        "position":"football",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(7).png"
+    },
+    {
+        "id":8,
+        "name":"Ken Thompson",
+        "country":"Kolabagan",
+        "salary":640,
+        "language":"football players",
+        "position":"football",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(8).png"
+    },
+    {
+        "id":9,
+        "name":"Guido van Rossum",
+        "country":"Kolabagan",
+        "salary":500,
+        "language":" football players",
+        "position":"football",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(9).png"
+    }
+]
